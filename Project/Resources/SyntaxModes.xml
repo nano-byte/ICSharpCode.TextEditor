@@ -35,6 +35,10 @@
 	      name       = "JavaScript"
 	      extensions = ".js"/>
 	
+	<Mode file       = "Lua-Mode.xshd"
+	      name       = "Lua"
+	      extensions = ".lua"/>
+	
 	<Mode file       = "Patch-Mode.xshd"
 	      name       = "Patch"
 	      extensions = ".patch;.diff"/>

@@ -217,6 +217,7 @@
     <EmbeddedResource Include="Resources\Coco-Mode.xshd" />
     <EmbeddedResource Include="Resources\CSharp-Mode.xshd" />
     <EmbeddedResource Include="Resources\HTML-Mode.xshd" />
+    <EmbeddedResource Include="Resources\Lua-Mode.xshd" />
     <None Include="Article2.cd" />
     <None Include="Article1.cd" />
     <None Include="Resources\ICSharpCode.TextEditor.snk" />
