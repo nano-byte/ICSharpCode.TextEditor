@@ -1,8 +1,5 @@
 /bin/
-/_ReSharper.*/
-/_TeamCity.*/
-/_dotTrace.*/
-/_dotMemory.*/
+/_ReSharper*/
 obj/
 *.bak
 *.cache
@@ -10,5 +7,4 @@ obj/
 *.suo
 *.user
 *.userprefs
-*.DotSettings
 *.resources
